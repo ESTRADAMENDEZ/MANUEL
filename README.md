@@ -101,8 +101,11 @@
     </div>
     <div class="row__column middle">
       <h2>DEBES PENSAR</h2>
+	    <div class="row__column side">
       <p> No lo creo es insultante que me digan que no pienso Que crees?</p>
-        <img src="Cari2.png" width="400" height="200"/>
+     </div>
+	    <div class="row__column side">
+	    <img src="Cari2.png" width="400" height="200"/>
     </div>
     <div class="row__column side">
       <h2>PENSAR ES PENSAR</h2>
