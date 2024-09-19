@@ -90,18 +90,19 @@
 	        <!--p align="rigth">MINED -->
     <a href="#">MISION</a>
     <a href="#">VISION</a>
-	<a href="https://www.nintendo.com/us/">TeCESTRADA</a>
+	<a href="https://www.nintendo.com/us/">TecESTRADA</a>
     <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
   <div class="row">`
     <div class="row__column side">
       <h2>QUE CREES TU</h2>
-      <p> Pensar en nada  lo digo con potestad, ES NO PENSAR, Prque piensas.</p>
+      <p> Pensar en nada  lo digo con potestad, ES NO PENSAR, Porque piensas?.</p>
     </div>
     <div class="row__column middle">
       <h2>DEBES PENSAR</h2>
       <p> No lo creo es insultante que me digan que no pienso Que crees?</p>
+        <img src="Cari2.png" width="400" height="200"/>
     </div>
     <div class="row__column side">
       <h2>PENSAR ES PENSAR</h2>
