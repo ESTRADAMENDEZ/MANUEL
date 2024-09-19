@@ -90,7 +90,7 @@
 	        <!--p align="rigth">MINED -->
     <a href="#">MISION</a>
     <a href="#">VISION</a>
-	<a href="https://www.nintendo.com/us/">TecPEREZ</a>
+	<a href="https://www.nintendo.com/us/">TeCESTRADA</a>
     <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
