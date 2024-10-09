@@ -90,26 +90,22 @@
 	        <!--p align="rigth">MINED -->
     <a href="#">MISION</a>
     <a href="#">VISION</a>
-	<a href="https://www.nintendo.com/us/">TecESTRADA</a>
+	<a href="https://www.nintendo.com/us/">TecPEREZ</a>
     <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
   <div class="row">`
     <div class="row__column side">
       <h2>QUE CREES TU</h2>
-      <p> Pensar en nada  lo digo con potestad, ES NO PENSAR, Porque piensas?.</p>
+      <p> Enrique pensar en nada  lo digo con potestad.</p>
     </div>
     <div class="row__column middle">
-      <h2>DEBES PENSAR</h2>
-	    <div class="row__column side">
-      <p> No lo creo es insultante que me digan que no pienso Que crees?</p>
-     </div>
-	    <div class="row__column side">
-	    <img src="surdo.png" width="400" height="200"/>
+      <h2>Columna 2</h2>
+      <p>Lorem, No lo creo es insultante</p>
     </div>
     <div class="row__column side">
-      <h2>PENSAR ES PENSAR</h2>
-      <p> Y entonces que hacemos? Vayan a pensar y me dicen como pensar pero pienseeeeeen</p>
+      <h2>Columna 3</h2>
+      <p> Y entonces que hacemos</p>
     </div>
   </div>
   <!-- inicio del piede de pagina -->
@@ -126,7 +122,7 @@
   
   <audio controls> <source src="lapaz.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  
-  <marquee> <img src="Cari2.png" width="400" height="200"/> </marquee>
+  <marquee> <img src="surdo.png" width="400" height="200"/> </marquee>
   <marquee behavior="alternate"> <img src="Cari2.png" width="400" height="200"  onmouseOver="this.src='nip2.jpg'" onmouseOut= "this.src='Cari2.png'"/> </marquee>
 
      <video width="600" height="400" controls>
