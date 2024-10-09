@@ -105,7 +105,7 @@
       <p> No lo creo es insultante que me digan que no pienso Que crees?</p>
      </div>
 	    <div class="row__column side">
-	    <img src="Cari2.png" width="400" height="200"/>
+	    <img src="surdo.png" width="400" height="200"/>
     </div>
     <div class="row__column side">
       <h2>PENSAR ES PENSAR</h2>
