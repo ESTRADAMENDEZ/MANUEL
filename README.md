@@ -81,7 +81,7 @@
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
-      <h1>INSTRUCTOR CC CHINA</h1>
+      <h1>INSTRUCTOR erpi 32 CC CHINA</h1>
   </div>
 
   <!-- Crear el menu -->
