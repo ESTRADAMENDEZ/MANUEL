@@ -88,7 +88,7 @@
   <div class="topnav">
     <a href="https://www.mined.gob.sv/" >INICIO</a>
 	        <!--p align="rigth">MINED -->
-    <a href="https://github.com/ESTRADAMENDEZ/MANUEL/blob/gh-pages/CSSINVENTOR.HTML">MISION</a>
+    <a href="CSSINVENTOR.HTML">MISION</a>
     <a href="#">VISION</a>
 	<a href="https://www.nintendo.com/us/">TecPEREZ</a>
     <a href=""></a>
