@@ -90,7 +90,7 @@
 	        <!--p align="rigth">MINED -->
     <a href="CSSINVENTOR.HTML">MISION</a>
     <a href="#">VISION</a>
-	<a href="https://www.nintendo.com/us/">TecPEREZ</a>
+	<a href="https://www.nintendo.com/us/">ESTRADA</a>
     <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
